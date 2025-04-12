@@ -2,7 +2,7 @@ package mycollections;
 
 import tests.*;
 
-// Main class to run all tests for the data structures
+// Main class to run all tests for the data structure
 public class Main {
     public static void main(String[] args) {
         // Print a message to indicate the start of testing
